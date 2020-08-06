@@ -2,11 +2,11 @@
 
 A list of recent papers about **Multi-Hop Machine Reading Comprehension**.
 
-Contributed by [Luxi Xing](https://github.com/XingLuxi).
+Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://github.com/IndexFziQ) and [Wei Peng](https://github.com/a414351664).
 
 Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China. 
 
-Update on **Dec. 17, 2019**.
+Update on **Aug. 6, 2020**.
 
 (the current version only contains the works published on the conferences or journals, we will continuously update this list.)
 
@@ -28,6 +28,10 @@ Update on **Dec. 17, 2019**.
 2. **HotpotQA**: A Dataset for Diverse, Explainable Multi-hop Question Answering. EMNLP,2018. [[paper](https://www.aclweb.org/anthology/D18-1259/) / [data](https://hotpotqa.github.io/)]
 
     Authors: *Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William Cohen, Ruslan Salakhutdinov, Christopher D. Manning*
+    
+3. **R4C**: R4C: A Benchmark for Evaluating RC Systems to Get the Right Answer for the Right Reason. ACL,2020. [[paper](https://arxiv.org/pdf/1910.04601.pdf) / [data](https://github.com/naoya-i/r4c) / [note](https://zhuanlan.zhihu.com/p/168748884)]
+
+    Authors: *Naoya Inoue, Pontus Stenetorp, Kentaro Inui*
     
 ## [HotpotQA](#content)
 
