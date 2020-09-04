@@ -7,7 +7,7 @@ Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://g
 
 Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China.
 
-Update on **Aug. 4, 2020**.
+Update on **Aug. 11, 2020**.
 
 (We will continuously update this repo.)
 
@@ -16,15 +16,21 @@ Update on **Aug. 4, 2020**.
 
 1. [Survey](#survey-papers)
 2. [Paper Lists](#paper-lists)
-3. [KMRC Datasets](#mrc-benchmark-datasets)
-4. [Probing Papers](#)
-5. [Code & Projects](#)
-6. [Tutorials](#)
-7. [PHD Thesis on MRC](#phd-thesis-on-mrc)
-8. [Misc Resource](#)
+3. [KMRC Datasets](#mrc-benchmark-datasets) [:link:](/content/datasets-kmrc.md)
+4. [Probing Papers](#content) [:link:](/content/papers-prob.md)
+5. [Code & Projects](#content)
+6. [Tutorials](#content)
+7. [PHD Thesis on MRC](#content) [:link: ](/content/phd-thesis.md)
+8. [Misc Resource](#content)
+
+## [Survey Papers](#content)
+
+[:link: here](/content/surveys.md)
+
+includes: 1) [MRC](/content/surveys.md#mrc), 2) [PLM](/content/surveys.md#plm), 3) [NLP with CSK](/content/surveys.md#nlp-with-csk), 4) [NLP misc](/content/surveys.md#nlp-misc)
 
 ## [Paper Lists](#content)
 
-1. [KMRC Papers](https://github.com/XingLuxi/KMRC-Research-Archive/blob/master/content/papers-kmrc.md)
+1. [KMRC Papers](/content/papers-kmrc.md)
 2. [Multi-Hop MRC Papers](https://github.com/XingLuxi/KMRC-Research-Archive/blob/master/content/papers-multi-hop.md)
 
